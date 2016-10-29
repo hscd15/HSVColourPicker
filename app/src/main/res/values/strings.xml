@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_about">About</string>
+    <string name="author">Hassan Saad (saad0033)</string>
+    <string name="hue">Hue:</string>
+    <string name="saturation">Saturation:</string>
+    <string name="value">Value/Lightness:</string>
+    <string name="initialHue">0.0°</string>
+    <string name="initialSaturation">100%</string>
+    <string name="initialValue">100%</string>
+</resources>
